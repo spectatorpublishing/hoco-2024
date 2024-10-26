@@ -73,7 +73,7 @@ export default function WelcomeHeader({ title, imageSrc  }) {
             
             <SignatureSection>
               <SignatureBlock>
-                <SignatureName>Heathen Chen</SignatureName>
+                <SignatureName>Heather Chen</SignatureName>
                 <SignatureTitle>Sports Editor</SignatureTitle>
               </SignatureBlock>
               <SignatureBlock>
