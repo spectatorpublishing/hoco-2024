@@ -10,6 +10,18 @@ export const credits = {
         },
 
     ],
+    "Engineering": [
+        {
+            "name": "Anna Reis",
+            "position": "Engineering Manager"
+        },
+    ],
+    "Product": [
+        {
+            "name": "Polly Arnan",
+            "position": "Head of Product"
+        },
+    ],
     "Crosswords": [
         {
             "name": "Molly Durawa", 
@@ -89,11 +101,5 @@ export const credits = {
             "name": "Alison Chiu",
             "position": "Graphics Trainee"
         }
-    ],
-    "Engineering": [
-        {
-            "name": "Anna Reis",
-            "position": "Engineering Manager"
-        },
     ],
 };
