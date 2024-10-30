@@ -57,7 +57,7 @@ const MobileAd = styled.img`
 `;
 
 const Home = () => {
-  const sectionNames = ["Sports", "City", "Audio", "Crosswords"];
+  const sectionNames = ["Sports", "University", "City", "Audio", "Crosswords"];
 
   return (
     <div>

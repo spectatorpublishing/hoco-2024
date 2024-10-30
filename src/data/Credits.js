@@ -42,6 +42,48 @@ export const credits = {
             "position":"Director of Podcasting and Audio"
         },
     ],
+    "University": [
+        {
+            "name": "Sarah Huddleston",
+            "position": "University News Editor"
+        },
+        {
+            "name": "Shea Vance",
+            "position": "University News Editor"
+        },
+        {
+            "name": "Noah Bernstein",
+            "position": "Deputy News Editor"
+        },
+        {
+            "name": "Emily Forgash",
+            "position": "Deputy News Editor"
+        },
+        {
+            "name": "Rebecca Massel",
+            "position": "Deputy News Editor"
+        },
+        {
+            "name": "Maya Stahl",
+            "position": "Deputy News Editor"
+        },
+        {
+            "name": "Joseph Zuloaga",
+            "position": "Deputy News Editor"
+        },
+        {
+            "name": "Saul Quintanar",
+            "position": "Senior Staff Writer"
+        },
+        {
+            "name": "Emily Pickering",
+            "position": "Staff Writer"
+        }, 
+        {
+            "name": "Ria Vasishtha",
+            "position": "Staff Writer"
+        }
+    ],
     "Sports": [
         {
             "name": "Heather Chen",

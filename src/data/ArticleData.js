@@ -1,76 +1,34 @@
 export const Articles = {
-    "Academics": [
+    "University": [
         {
-            title: "Barnard requirements: A student’s crash course",
-            author: "Tian Griffin",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/X6BAHUIE2VA5NB5HYFDIM7UCYY.JPG",
-            link: "https://www.columbiaspectator.com/spectrum/2018/09/17/barnard-requirements-a-students-crash-course/"
+            title: "Columbia’s endowment rises to $14.8 billion, on pace to outperform peer institutions in investment returns",
+            author: "Saul Quintanar",
+            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6E3Z5HFPKVACRHOUY3FBZDD2KU.jpg",
+            link: "https://www.columbiaspectator.com/news/2024/10/16/columbias-endowment-rises-to-148-billion-on-pace-to-outperform-peer-institutions-in-investment-returns/"
         },
         {
-            title: "What classes will you take during your first year in SEAS?",
-            author: "Victoria Yang",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YUVYTJ5J7ZBULPO3XQ6M3FGIBE",
-            link: "https://www.columbiaspectator.com/required-reading/2017/04/13/what-classes-will-you-take-during-your-first-year-in-seas/"
+            title: "Law professor Katherine Franke, BC ’81, files ethics complaint against law firm after withdrawal of representation",
+            author: "Emily Pickering",
+            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PDFJZ2TJQNH7DCNQLCWUYNLP6Y.jpg",
+            link: "https://www.columbiaspectator.com/news/2024/10/22/law-professor-katherine-franke-bc-81-files-ethics-complaint-against-law-firm-after-withdrawal-of-representation/"
         },
         {
-            title: "What to do if you’re on a waitlist",
-            author: "Abhishek Hariharan",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OVBHCQGTHVHKRFNOHRS2YTFULE.png",
-            link: "https://www.columbiaspectator.com/spectrum/2019/12/04/what-to-do-if-youre-on-a-waitlist/"
+            title: "Barnard Annual Security and Fire Safety Report shows rise in crime rates",
+            author: "Ria Vasishtha",
+            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SJKN6LGSYZDYNFEQINDBRZ6AFI.jpg",
+            link: "https://www.columbiaspectator.com/news/2024/10/17/barnard-annual-security-and-fire-safety-report-shows-rise-in-crime-rates/"
         },
         {
-            title: "First-year fears: Solutions for common academic worries",
-            author: "Veronica Grace Taleon",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OLYRFGF4M5FLTP2GBATFRW5CWE.png",
-            link: "https://www.columbiaspectator.com/required-reading/2017/08/14/first-year-fears-solutions-for-common-academic-worries/"
+            title: "Columbia’s annual Public Safety report shows over $225,000 in fire damage on Morningside campus",
+            author: "Emily Pickering",
+            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/S5XCC7D2ORAEXAQBEFGDJDXXA4.jpg",
+            link: "https://www.columbiaspectator.com/news/2024/10/10/columbias-annual-public-safety-report-shows-over-225000-in-fire-damage-on-morningside-campus/"
         },
         {
-            title: "Columbia Crash Course: Demystifying the lore of the Columbia College-SEAS Core",
-            author: "Claire Schnatterbeck",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7SHBAOGHPJGJFDP3BE4Z6NDOX4.jpeg",
-            link: "https://www.columbiaspectator.com/podcasts/2021/08/27/columbia-crash-course-demystifying-the-lore-of-the-columbia-college-seas-core/"
-        },
-        {
-            title: "Advice for incoming transfer students to Columbia and Barnard",
-            author: "Izzy Mollicone",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/F7AOM4ZPNZAP5IQCOWD3QKZAVM.jpg",
-            link: "https://www.columbiaspectator.com/spectrum/2019/05/19/advice-for-incoming-transfer-students-to-columbia-and-barnard/"
-        },
-        {
-            title: "At the core of Columbia’s academic scene: What’s up with the Core Curriculum for Columbia College?",
-            author: "Huber Gonzalez",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KNUL2JPFIVCODHLKC56YTX4EAA",
-            link: "https://www.columbiaspectator.com/spectrum/2017/03/31/at-the-core-of-cus-academic-scene-whats-up-with-the-core-curriculum-for-columbia-college/"
-        },
-        {
-            title: "Dos and don’ts of the first week of classes",
-            author: "Ria Honda",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YAWDMXHTGVHZHEOV745FERFK3I.jpg",
-            link: "https://www.columbiaspectator.com/spectrum/2019/05/20/dos-and-donts-of-first-week-of-classes/"
-        },
-        {
-            title: "Academic advice for incoming transfer students",
-            author: "Nandini Talwar",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JUUQCG5C2JAF7M4Z232KL7DGYE.jpg",
-            link: "https://www.columbiaspectator.com/spectrum/2020/08/20/academic-advice-for-incoming-transfer-students/"
-        },
-        {
-            title: "Guide to tutoring services",
-            author: "Lina Bennani Karim",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JSWGQKG3DRCU3IDDRCDRZRDQ6E.jpg",
-            link: "https://www.columbiaspectator.com/spectrum/2019/10/04/guide-to-tutoring-services/"
-        },
-        {
-            title: "Registration 101: From tips on choosing your classes to making a 4-year plan",
-            author: "Swethaa Suresh and Nirutti Charupaisankit",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D26VXPRCGFHOFCYWPWKKZ5LX4E.jpeg",
-            link: "https://www.columbiaspectator.com/spectrum/2020/11/30/registration-101-from-tips-on-choosing-your-classes-to-making-a-4-year-plan/"
-        },
-        {
-            title: "Spectrum’s guide to building the perfect schedule",
-            author: "Grace Lin",
-            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DPX7VALB5RFQZDJGBVDMNUQYPE.jpg",
-            link: "https://www.columbiaspectator.com/spectrum/2018/08/18/spectrums-guide-to-building-the-the-perfect-schedule/"
+            title: "Barnard vice president of strategic communications leaves amid ongoing administrative turnover",
+            author: "Maya Stahl",
+            imgLink: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Q7QCXU5SANAS7IJOSYUG5CQGS4.jpg",
+            link: "https://www.columbiaspectator.com/news/2024/10/17/barnard-vice-president-of-strategic-communications-leaves-amid-ongoing-administrative-turnover/"
         },
     ],
     "Audio": [

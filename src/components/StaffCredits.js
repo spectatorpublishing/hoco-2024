@@ -182,7 +182,7 @@ const CreditsList = () => {
                 <Text>
                     <Direction>
                     <Column>
-                        {["Corporate Board", "Crosswords"].map(section => (
+                        {["Corporate Board", "Sports"].map(section => (
                             <Box>
                                 <h2>{section}</h2>
                                 {credits[section].map(person => (
@@ -192,7 +192,7 @@ const CreditsList = () => {
                         ))}
                     </Column>
                     <Column>
-                        {["Audio", "Sports"].map(section => (
+                        {["Engineering", "Audio", "University"].map(section => (
                             <Box>
                                 <h2>{section}</h2>
                                 {credits[section].map(person => (
@@ -202,7 +202,7 @@ const CreditsList = () => {
                         ))}
                     </Column>
                     <Column>
-                        {["Graphics", "Engineering"].map(section => (
+                        {["Product", "Graphics", "Crosswords"].map(section => (
                             <Box>
                                 <h2>{section}</h2>
                                 {credits[section].map(person => (
